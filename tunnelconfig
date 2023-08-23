@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = "6ba4d541-5b2a-4baa-92ca-1e0355e15e00"
+group = "0f1df5f9-4eda-4c47-9396-2006bb829330"
+inactive_tunnel_timeout = 0
+organization_id = 1123934
+private_tunnel = false
+proxy_host = ""
+proxy_password = ""
+proxy_port = ""
+proxy_username = ""
+retry = 3
+server = "https://tunnel-manager.katalon.com"
+team_id = 1156617
+tenant = "TestOps"
+username = "shalini.purohit@kansocloud.com"
